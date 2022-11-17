@@ -14,7 +14,7 @@ There are 2 ways to use this tool :<br>
 1°) enter your settings :<br>
 ![1 enter your settings](https://github.com/chris13300/expToPGN/blob/main/expToPGN/bin/Debug/1.%20set%20your%20limits.jpg)<p>
 
-2°) exportation in progress :<br>
+2°) export in progress :<br>
 ![2 exporting](https://github.com/chris13300/expToPGN/blob/main/expToPGN/bin/Debug/2.%20export.jpg)<p>
 
 How it works ?<p>

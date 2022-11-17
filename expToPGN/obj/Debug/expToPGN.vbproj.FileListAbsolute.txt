@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\bin\Debug\expToPGN.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\bin\Debug\expToPGN.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\obj\Debug\expToPGN.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\obj\Debug\expToPGN.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\obj\Debug\expToPGN.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\obj\Debug\expToPGN.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\obj\Debug\expToPGN.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\bin\Debug\expToPGN.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToPGN\expToPGN\bin\Debug\expToPGN.xml

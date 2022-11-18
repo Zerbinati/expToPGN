@@ -5,6 +5,7 @@ Prerequisites :<br>
 rename BUREAU.ini to YOUR-COMPUTER-NAME.ini<br>
 set moteurEXP to path_to_your_eman_engine.exe<br>
 set fichierEXP to path_to_your_experience_file.exp<br>
+copy [pgn-extract.exe](https://github.com/chris13300/expToPGN/blob/main/expToPGN/bin/Debug/pgn-extract.exe) in your expToPGN folder<p>
 
 There are 2 ways to use this tool :<br>
 - either run this command : expToPGN.exe path_to_your_opening.pgn<br>
